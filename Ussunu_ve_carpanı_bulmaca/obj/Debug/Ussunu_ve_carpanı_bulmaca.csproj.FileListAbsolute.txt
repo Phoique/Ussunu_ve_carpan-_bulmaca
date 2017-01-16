@@ -1,0 +1,6 @@
+c:\users\enes-\documents\visual studio 2015\Projects\Ussunu_ve_carpanı_bulmaca\Ussunu_ve_carpanı_bulmaca\bin\Debug\Ussunu_ve_carpanı_bulmaca.exe.config
+c:\users\enes-\documents\visual studio 2015\Projects\Ussunu_ve_carpanı_bulmaca\Ussunu_ve_carpanı_bulmaca\bin\Debug\Ussunu_ve_carpanı_bulmaca.exe
+c:\users\enes-\documents\visual studio 2015\Projects\Ussunu_ve_carpanı_bulmaca\Ussunu_ve_carpanı_bulmaca\bin\Debug\Ussunu_ve_carpanı_bulmaca.pdb
+c:\users\enes-\documents\visual studio 2015\Projects\Ussunu_ve_carpanı_bulmaca\Ussunu_ve_carpanı_bulmaca\obj\Debug\Ussunu_ve_carpanı_bulmaca.exe
+c:\users\enes-\documents\visual studio 2015\Projects\Ussunu_ve_carpanı_bulmaca\Ussunu_ve_carpanı_bulmaca\obj\Debug\Ussunu_ve_carpanı_bulmaca.pdb
+c:\users\enes-\documents\visual studio 2015\Projects\Ussunu_ve_carpanı_bulmaca\Ussunu_ve_carpanı_bulmaca\obj\Debug\Ussunu_ve_carpanı_bulmaca.csprojResolveAssemblyReference.cache
